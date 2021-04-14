@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/justinmello/Documents/school/cst370/cst370_hw5_3/hw5_3.cpp
+iostream
+-
+cmath
+-
+algorithm
+-
+vector
+-
+functional
+-
+string
+-
+
